@@ -1,0 +1,16 @@
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\bin\Debug\net5.0\Products_Shop.exe
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\bin\Debug\net5.0\Products_Shop.deps.json
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\bin\Debug\net5.0\Products_Shop.runtimeconfig.json
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\bin\Debug\net5.0\Products_Shop.runtimeconfig.dev.json
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\bin\Debug\net5.0\Products_Shop.dll
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\bin\Debug\net5.0\ref\Products_Shop.dll
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\bin\Debug\net5.0\Products_Shop.pdb
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\Products_Shop.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\Products_Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\Products_Shop.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\Products_Shop.AssemblyInfo.cs
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\Products_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\Products_Shop.dll
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\ref\Products_Shop.dll
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\Products_Shop.pdb
+C:\Users\Я\source\repos\Products_Shop\Products_Shop\obj\Debug\net5.0\Products_Shop.genruntimeconfig.cache
